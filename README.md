@@ -39,7 +39,7 @@ If you use the **BridgeDamage** dataset in your research, please cite our work:
   month = oct,
   year = {2024}
 }
-
+```
 ## Contact Information
 
 For questions or feedback, feel free to contact us at:
