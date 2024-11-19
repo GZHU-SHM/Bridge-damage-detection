@@ -40,5 +40,10 @@ If you use the **BridgeDamage** dataset in your research, please cite our work:
   year = {2024}
 }
 
+## Contact Information
+
+For questions or feedback, feel free to contact us at:
+
+- **Email**: [linjie.huang@e.gzhu.edu.cn](mailto:linjie.huang@e.gzhu.edu.cn)
 
 
