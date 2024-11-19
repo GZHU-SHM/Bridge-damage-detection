@@ -40,7 +40,7 @@ If you use the **BridgeDamage** dataset in your research, please cite our work:
   year = {2024}
 }
 
-### Contact Information
+## Contact Information
 
 For questions or feedback, feel free to contact us at:
 
