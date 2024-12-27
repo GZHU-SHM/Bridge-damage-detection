@@ -10,7 +10,7 @@ The dataset includes annotated images of bridge surface damages across multiple 
 
 The **BridgeDamage** dataset can be accessed via the following link:
 
-- **Baidu Netdisk**: [https://pan.baidu.com/s/14GP7MUCRNqGPIZKlk9VSyQ](https://pan.baidu.com/s/14GP7MUCRNqGPIZKlk9VSyQ) password: 0918
+- **Baidu Netdisk**: [https://pan.baidu.com/s/1Wzsi2i6rPpq9UD8DpRSSXQ?pwd=0918](https://pan.baidu.com/s/1Wzsi2i6rPpq9UD8DpRSSXQ?pwd=0918)
 
 Due to ongoing research requiring the dataset, only a subset of the images and labels is currently available. We appreciate your understanding and hope the shared portion is beneficial to your work.
 
